@@ -1,0 +1,16 @@
+C:\Marius Projects\CourierKata-master\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.csproj.CoreCompileInputs.cache
+C:\Marius Projects\CourierKata-master\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfoInputs.cache
+C:\Marius Projects\CourierKata-master\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfo.cs
+C:\Marius Projects\CourierKata-master\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.deps.json
+C:\Marius Projects\CourierKata-master\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.dll
+C:\Marius Projects\CourierKata-master\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.pdb
+C:\Marius Projects\CourierKata-master\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.dll
+C:\Marius Projects\CourierKata-master\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.pdb
+C:\Marius Projects\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.deps.json
+C:\Marius Projects\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.dll
+C:\Marius Projects\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.pdb
+C:\Marius Projects\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.csproj.CoreCompileInputs.cache
+C:\Marius Projects\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfoInputs.cache
+C:\Marius Projects\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfo.cs
+C:\Marius Projects\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.dll
+C:\Marius Projects\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.pdb
